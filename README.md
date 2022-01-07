@@ -1,2 +1,2 @@
 # jeston-nano
-nvidia jetson nano
+nvidia jetson nano overclock
